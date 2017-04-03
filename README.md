@@ -1,0 +1,2 @@
+# Quick-Hide-App
+The "Quick, Hide!" app is used for when someone wants to search your device for any reason. Using this app will allow for a password to be entered and wipes the data that could hurt you. It is HIGHLY RECOMMENDED that CLOUD SAVING is enabled, as I am not responsible for data loss.The passcode will be used as a account. When you go to log in, it will have a fresh slate of web history, cookies, and application data.
